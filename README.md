@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Kelvin Achiando
 
 ### 🔭I'm a Fullstack Software and Web Developer
-### 🌱 I’m currently learning
+### 🌱 I’m currently learning Ruby
 ### 👯 I’m looking to collaborate on Github
 ### 📫 How to reach me: EMAIL kelvinostin22@gmail.com
 : PHONE 0724733537
